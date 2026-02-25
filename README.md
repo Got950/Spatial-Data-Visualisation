@@ -15,7 +15,7 @@ references
 
 # Frontend Directory showcase
 
-  - Leaflet libraries for maps, interact with map, add data such as border files, geolocation name, etc
+  - Leaflet library for maps, interact with map, add data such as border files, geolocation name, etc
   - Chartjs, to visualize corona or gdp data on indian map, for each state and district, done a but of data analysis for better representation
   - Simple react code for ui.
   
@@ -32,5 +32,6 @@ npm i
 
 npm run dev
 ```
+
 
 
